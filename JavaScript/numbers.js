@@ -22,4 +22,29 @@ console.log(Math.floor(n1));
 // returns ceiling value of the number
 console.log(Math.ceil(n1));
 // returns rounded value of the number
-console.log()
+console.log(Math.round(n1));
+// removes anything after decimal point
+console.log(Math.trunc(n1));
+
+// reads an integer from a string
+console.log(parseInt('100px'));
+console.log(parseInt('px100'));
+console.log( parseInt('0xff', 16) );
+
+// reads a floating point number from a string
+console.log(parseFloat('100.3cm'));
+console.log(parseFloat('cm100.3'));
+
+// returns a random number between 0 and 1
+console.log(Math.random());
+
+// returns maximum number among all the numbers given as arguments
+console.log(Math.max(1,2,3,4,5,12,11,7));
+
+// returns minimum number among all the numbers given as arguments
+console.log(Math.min(1,2,3,4,5,12,11,7));
+
+// returns 1st argument number raised to 2nd argument number
+console.log(Math.pow(2,5));
+
+console.log(6.35.toFixed(1))
