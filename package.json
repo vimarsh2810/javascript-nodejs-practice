@@ -1,0 +1,22 @@
+{
+  "name": "javascript-nodejs-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimarsh2810/javascript-nodejs-practice.git"
+  },
+  "author": "vimarsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vimarsh2810/javascript-nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/vimarsh2810/javascript-nodejs-practice#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

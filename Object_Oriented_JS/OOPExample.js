@@ -38,5 +38,3 @@ acc1.checkBalance();
 acc1.withDraw(16000);
 acc1.withDraw(10000);
 acc1.checkBalance();
-
-
