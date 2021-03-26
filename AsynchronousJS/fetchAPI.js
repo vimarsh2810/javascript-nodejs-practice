@@ -1,6 +1,6 @@
 // Run fetch-api.html file in live server
 
-fetch('todos/vimarsh.json', {
+fetch('JSONS/vimarsh.json', {
   method: 'GET',
   headers: {'Content-type': 'application/json'}
 })
